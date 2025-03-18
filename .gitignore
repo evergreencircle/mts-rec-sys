@@ -92,7 +92,7 @@ fabric.properties
 !.idea/runConfigurations
 
 
-
+/.idea/*
 *.ipynb
 *.pickle
 *.csv
